@@ -1,0 +1,13 @@
+.uniOne {
+    background-color: black;
+    color: white;
+}
+
+.uniTwo {
+    background-color: yellow;
+}
+
+.uniOne, .uniTwo {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
