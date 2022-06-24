@@ -64,3 +64,36 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+/* Muh Solution */
+
+.modal {
+  padding: 15px;
+  display: flex;
+}
+
+.left {
+  padding-right: 15px;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+}
+
+.top {
+  display: flex;
+}
+
+.header {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.close-button {
+  margin-left: auto;
+}
+
+.buttons {
+  margin-top: 15px
+}
